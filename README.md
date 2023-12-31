@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요 👋 세명컴퓨터고등학교 게임소프트웨어과 공식 깃허브 입니다.</h1>
-<h3 align="center">4차 산업을 선도하는 게임소프트웨어과의 깃허브 페이지</h3>
+<h1 align="center">안녕하세요 👋 세명컴퓨터고등학교 게임소프트웨어과 공식 깃허브</h1>
+<h5 align="center">4차 산업을 선도하는 게임소프트웨어과의 깃허브 페이지</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semyeongcomputerhs&label=Profile%20views&color=0e75b6&style=flat" alt="semyeongcomputerhs" /> </p>
 
